@@ -1,4 +1,4 @@
-### Hi, I'm Sarah 👋
+### 👋
 
  - 🌐  [sarahsturgeon.com](https://sarahsturgeon.com)  
  - 👔  [LinkedIn](https://www.linkedin.com/in/sturgeonb4)  
