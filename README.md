@@ -9,7 +9,8 @@
 
  ***
  
- ### CFC _(Most of my Garry's Mod work is here)_
+ ### CFC
+ _(Most of my Garry's Mod work is here)_
  - 💻  [GitHub](https://www.github.com/cfc-servers)
  - 🌐  [cfcservers.org](https://cfcservers.org)  
 
