@@ -1,5 +1,9 @@
 ### 👋
 
+I'm Sarah. I'm a passionate and experienced Software Engineer. I like building things.
+
+I also founded and own CFC Servers _(see below)_, a popular Gaming community.
+
  - 🌐  [sarahsturgeon.com](https://sarahsturgeon.com)  
  - 👔  [LinkedIn](https://www.linkedin.com/in/sturgeonb4)  
  - 🔑  [Keybase](https://keybase.io/sarahsturgeon/)
