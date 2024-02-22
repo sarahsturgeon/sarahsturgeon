@@ -1,6 +1,6 @@
 ### 👋
 
-I'm Sarah. I'm a passionate and experienced Software Engineer. I like building things.
+I'm Sarah. I'm a Full Stack Software Engineer. I like building things.
 
 I also founded and own CFC Servers _(see below)_, a popular Gaming community.
 
