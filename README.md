@@ -19,4 +19,4 @@ I also founded and own CFC Servers _(see below)_, a popular Gaming community.
 
 ***
 
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=brandonturgeon"/>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=brandonsturgeon"/>
