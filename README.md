@@ -7,7 +7,7 @@ I like building high-quality open-source software for everyone to enjoy.
 
 I also founded and own CFC Servers _(see below)_, a popular Gaming community.
 
-[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahsturgeon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahsturgeon&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
  ***
