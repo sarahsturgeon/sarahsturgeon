@@ -8,9 +8,6 @@ I like building high-quality open-source software for everyone to enjoy.
 I also founded and own CFC Servers _(see below)_, a popular Gaming community.
 
 
-![](https://raw.githubusercontent.com/sarahsturgeon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sarahsturgeon/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
  ***
  
  ### CFC
