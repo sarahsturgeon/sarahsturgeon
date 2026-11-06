@@ -17,4 +17,32 @@ I also founded and own CFC Servers _(see below)_, a popular Gaming community.
 
 ***
 
+<div align="center">
+    <img
+        src="https://github.com/sarahsturgeon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"
+        width="360"
+        height="210"
+        alt=""
+    />
+    <img
+        src="https://github.com/sarahsturgeon/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"
+        width="360"
+        height="210"
+        alt=""
+    />
+    <img
+        src="https://github.com/sarahsturgeon/github-stats/blob/master/generated/overview.svg#gh-light-mode-only"
+        width="360"
+        height="210"
+        alt=""
+    />
+    <img
+        src="https://github.com/sarahsturgeon/github-stats/blob/master/generated/languages.svg#gh-light-mode-only"
+        width="360"
+        height="210"
+        alt=""
+    />
+</div>
+
+
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=brandonsturgeon"/>
